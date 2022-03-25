@@ -18,4 +18,4 @@ console.log(calcu);
 let calcu1 = (637263 / 54);
 console.log(calcu1); */
 
-// Answer no.6 No, because we use command "/*  */"
+// Answer no.6 No, because we use block command "/*  */"
